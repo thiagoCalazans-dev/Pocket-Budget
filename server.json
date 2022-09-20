@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-09-20T12:32:52.615Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 59,
+      "createdAt": "2022-09-20T12:35:52.615Z"
+    },
+    {
+      "id": 3,
+      "description": "Mercado",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 189,
+      "createdAt": "2022-09-20T12:37:52.615Z"
+    },
+    {
+      "category": "Trabalho",
+      "description": "Freela",
+      "price": 1000,
+      "type": "income",
+      "createdAt": "2022-09-20T20:02:23.422Z",
+      "id": 4
+    },
+    {
+      "category": "acidente",
+      "description": "batida de carro",
+      "price": 4000,
+      "type": "outcome",
+      "createdAt": "2022-09-20T20:13:06.344Z",
+      "id": 5
+    }
+  ]
+}
